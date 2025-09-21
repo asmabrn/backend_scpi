@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const Scpi = require('../models/scpi');
+const Scpi = require('../models/Scpi');
 const auth = require('../middleware/auth');
 
 
